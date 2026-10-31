@@ -54,5 +54,7 @@ The only thing left to do is to screw in the Benchy, and you're done!
 
 <img width="1920" height="722" alt="e0d39258-a263-4af1-a4f2-4613086c13d7" src="https://github.com/user-attachments/assets/12132892-55ea-408a-8bbc-a8cf7f08d9b4" />
 
-
+<hr>
+No AI was used in the making of this project.<br>
+<img width="150" height="auto" alt="image" src="https://github.com/user-attachments/assets/31fa0a0f-d9f5-445f-b6bf-405257bba26e" />
 
