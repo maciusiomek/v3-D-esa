@@ -54,10 +54,5 @@ The only thing left to do is to screw in the Benchy, and you're done!
 
 <img width="1920" height="722" alt="e0d39258-a263-4af1-a4f2-4613086c13d7" src="https://github.com/user-attachments/assets/12132892-55ea-408a-8bbc-a8cf7f08d9b4" />
 
-<hr>
-<br><br><br><br><br>
-(TD: Add .step files)
-
-
 
 
